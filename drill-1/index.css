@@ -1,0 +1,32 @@
+.topper{
+    background-color: dimgray;
+    height: 20vh;
+    position: static;
+}
+.middle{
+    position: fixed;
+    top: 20vh;
+    width: 100vw;
+}
+#right{
+    position:absolute;
+    right: 0px;
+    background-color: lightgray;
+    height: 80vh;
+    width: 20vw;
+}
+#left{
+    position:absolute;
+    left: 0px;
+    background-color: lightgray;
+    height: 80vh;
+    width: 20vw;
+}
+#bottom{
+    position:relative;
+    top: 70vh;
+    left: 20vw;
+    background-color: black;
+    height: 10vh;
+    width: 60vw;
+}
