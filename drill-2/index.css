@@ -1,0 +1,44 @@
+div{
+    align-items: center;
+    height: 30vh;
+}
+.container1{
+    margin: 10px;
+    border: 4px;
+    border-style: outset;
+    border-color: black;
+}
+#box1{
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 9vw;
+    width: 3vw;
+    background-color: purple;
+}
+#box2{
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 10px;
+    background-color: green;
+}
+#circle{
+    height: 10px;
+    background-color: cyan;
+}
+.container2{
+    margin: 10px;
+    border: 3px;
+    border-style: dotted;
+    border-color: black;
+}
+#port_royal{
+    background-color: aliceblue;
+}
+.container3{
+    width: 40vw;
+    box-shadow: 2px 2px 2px gainsboro;
+    color: darkblue;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
